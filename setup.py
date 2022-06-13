@@ -36,7 +36,7 @@ r_channel = 942465457460482049
 # ----- Tracker.gg Stuff -----
 
 # Tracker.gg Auth Key
-trackerkey = '7270f809-78f3-45c2-ae12-dc2bc10dd7b5'
+trackerkey = ''
 
 # Current Season
 season_num = 14
