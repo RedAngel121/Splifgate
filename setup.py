@@ -1,7 +1,7 @@
 # ----- Discord Stuff -----
 
 # Discord Bot Token
-token = 'OTQyNDYwMDU3MDM0MDQ3NTk4.G94w3i.TmqqrE1QmbQxutieTE8RD_w0ZjRQcHBPuVvb7A'
+token = '[REDACTED]'
 
 # Discord Bot App ID
 AppID = '942460057034047598'
