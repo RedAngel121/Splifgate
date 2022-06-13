@@ -1,0 +1,2 @@
+py-cord==2.0.0b1
+requests==2.26.0
